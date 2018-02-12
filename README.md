@@ -6,8 +6,13 @@ Make sure Redis is running on your local machine and you have nodejs framework i
 ## How to use
 
 `git clone https://github.com/ayomidearo/node-redis-crud.git`
+
 `cd node-redis-crud`
+
 run `npm install`
+
+to start application, run `node app.js`
+
 
 Application is running on http://localhost:2300/
 
