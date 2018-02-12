@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ayomidearo/node-redis-crud/issues"
   },
-  "homepage": "https://github.com/ayomidearo/node-redis-crud#readme"
+  "homepage": "https://github.com/ayomidearo/node-redis-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "redis": "^2.8.0"
+  }
 }
