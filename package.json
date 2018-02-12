@@ -1,0 +1,19 @@
+{
+  "name": "node-redis-crud",
+  "version": "1.0.0",
+  "description": "A simple CRUD application in Nodejs using Redis as database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayomidearo/node-redis-crud.git"
+  },
+  "author": "Aro Ayomide <skilashiaro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayomidearo/node-redis-crud/issues"
+  },
+  "homepage": "https://github.com/ayomidearo/node-redis-crud#readme"
+}
